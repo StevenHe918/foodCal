@@ -23,7 +23,7 @@ Tag: Caramel Color, Expeller Pressed Canola Oil
 
 
 For the non-existed product like:
-![sample barcode]()
+![sample barcode](https://github.com/StevenHe918/foodCal/blob/master/ReadMeSource/WechatIMG724.jpeg)
 
 The sample result will be
 
@@ -33,4 +33,4 @@ home button
 
 back button
 
-![sample barcode]()
+![sample barcode](https://github.com/StevenHe918/foodCal/blob/master/ReadMeSource/WX20190303-035811%402x.png)
