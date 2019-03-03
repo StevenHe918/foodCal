@@ -25,8 +25,10 @@ public class getSearch : MonoBehaviour
     // Update is called once per frame
     public void Check_search()
     {
-        if (true) //the returned value is null or empty string
-            SceneLoader(3);
+        if (Search.text == "0842234000988") //the returned value is null or empty string
+            SceneLoader(2);
+        else
+             SceneLoader(3);
     }
 
 }

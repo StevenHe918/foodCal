@@ -50,7 +50,10 @@ public class CustomCodeEventHandler : MonoBehaviour {
         { result = reader.ReadToEnd(); }
 
         if (text != "0842234000988")
+        {
             SceneLoad(3);
+            return result;
+        }
         return result;
         // JArray blogPostArray = JArray.Parse(result);
         // IList<BlogPost> blogPosts = blogPostArray.Select(p => new BlogPost
@@ -81,7 +84,10 @@ public class CustomCodeEventHandler : MonoBehaviour {
         textBox.gameObject.SetActive(true);
         passT = text;
         passName = SearchAPI(text);
-        SceneLoad(2);
+        if(text == "0842234000988")
+            SceneLoad(2);
+        else
+            SceneLoad(3);
 
 
     }
