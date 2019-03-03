@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -11,7 +12,7 @@ public class DisResult : MonoBehaviour
     void Start()
     {
         display.text = CustomCodeEventHandler.passName;
-        
+        Console.WriteLine(display.text);
     }
 
     // Update is called once per frame
