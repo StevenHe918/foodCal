@@ -60,7 +60,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PhoneCam.cs" />
+    <Compile Include="Assets\script\getSearch.cs" />
+    <Compile Include="Assets\script\Jump.cs" />
+    <Compile Include="Assets\script\PhoneCam.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/zeyu/Desktop/UCI/WINTER 2019/Hackthon/foodCal/FoodCal/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
