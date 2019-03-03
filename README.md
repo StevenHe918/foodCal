@@ -25,9 +25,9 @@ Brand: Gardein
 
 Country: France
 
-Tag: Caramel Color, Expeller Pressed Canola Oil
+Tag: Water, soy protein concentrate
 
-
+![sample barcode](https://github.com/StevenHe918/foodCal/blob/master/ReadMeSource/WechatIMG725.png)
 
 
 For the non-existed product like:
