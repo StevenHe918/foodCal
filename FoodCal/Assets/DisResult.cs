@@ -12,7 +12,6 @@ public class DisResult : MonoBehaviour
     void Start()
     {
         display.text = CustomCodeEventHandler.passName;
-        Console.WriteLine(display.text);
     }
 
     // Update is called once per frame
