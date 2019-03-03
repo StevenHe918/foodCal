@@ -1,5 +1,13 @@
 # foodCal
 
+# Home Page
+
+![sample barcode](https://github.com/StevenHe918/foodCal/blob/master/ReadMeSource/Screen%20Shot%202019-03-03%20at%204.15.10%20AM.png)
+
+
+# Scan Page
+
+![sample barcode](https://github.com/StevenHe918/foodCal/blob/master/ReadMeSource/Screen%20Shot%202019-03-03%20at%204.16.39%20AM.png)
 
 
 
