@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F807798B-EAC1-B600-64E6-ABE61BE4AB8D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PhoneCam.cs">
+    <Files>
+      <File FileName="Assets/PhoneCam.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FoodCal" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PhoneCam.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
