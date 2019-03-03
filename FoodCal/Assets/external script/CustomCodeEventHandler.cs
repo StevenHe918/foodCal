@@ -6,6 +6,9 @@ using System.IO;
 using System.Net;
 using Newtonsoft.Json;
 using System;
+using Newtonsoft.Json.Linq;
+using System.Collections.Generic;
+using System.Linq;
 
 public class CustomCodeEventHandler : MonoBehaviour {
 
@@ -27,6 +30,13 @@ public class CustomCodeEventHandler : MonoBehaviour {
 		codeScanner.OnCodeLost += OnCodeLost;
 	}
 
+    public class BlogPost
+    {
+        public string Name { get; set; }
+        public string Brand { get; set; }
+        public string tags { get; set; }
+    }
+
     public string SearchAPI(string text)
     {
         string result;
@@ -39,12 +49,22 @@ public class CustomCodeEventHandler : MonoBehaviour {
 
         { result = reader.ReadToEnd(); }
 
-        var json = JsonUtility.ToJson(result);
-     //  char name = json[1];
-     //   string brand = json["products"][text]["brand"];
-       // string ingredients = json["product"][text]["details"]["ingredients"];
-
+        if (text != "0842234000988")
+            SceneLoad(3);
         return result;
+        // JArray blogPostArray = JArray.Parse(result);
+        // IList<BlogPost> blogPosts = blogPostArray.Select(p => new BlogPost
+        // {
+        //     Brand = (string)p["products"][text]["details"]["brand"],
+        //     tags = (string)p["products"][text]["details"]["ingredients"],  
+        //     Name = (string)p["products"][text]["details"]["lifestyle"]["gluten-free"]["name"]
+        // }).ToList();
+
+        //  char name = json[1];
+        //   string brand = json["products"][text]["brand"];
+        // string ingredients = json["product"][text]["details"]["ingredients"];
+
+
     }
 
     public void SceneLoad(int Index)

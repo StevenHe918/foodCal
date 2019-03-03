@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-/Users/zeyu/Desktop/UCI/WINTER 2019/Hackthon/foodCal/FoodCal/test.apk
+/Users/zeyu/Desktop/UCI/WINTER 2019/Hackthon/foodCal/FoodCal/FoodCal.apk
 SceneListBegin?
 Assets/Scenes/Home.unity
 Assets/Scenes/SampleScene.unity
