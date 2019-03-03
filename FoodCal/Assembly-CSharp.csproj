@@ -60,9 +60,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CodeScanner\Scenes\CustomCodeEventHandler.cs" />
+    <Compile Include="Assets\CodeScanner\Scripts\CodeScanner.cs" />
+    <Compile Include="Assets\CodeScanner\Scripts\WebCamController.cs" />
     <Compile Include="Assets\script\getSearch.cs" />
     <Compile Include="Assets\script\Jump.cs" />
     <Compile Include="Assets\script\PhoneCam.cs" />
+    <None Include="Assets\CodeScanner\LICENSE.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/zeyu/Desktop/UCI/WINTER 2019/Hackthon/foodCal/FoodCal/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -284,6 +288,9 @@
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
       <HintPath>/Users/zeyu/Desktop/UCI/WINTER 2019/Hackthon/foodCal/FoodCal/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="cscanner">
+      <HintPath>/Users/zeyu/Desktop/UCI/WINTER 2019/Hackthon/foodCal/FoodCal/Assets/CodeScanner/Plugins/cscanner.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

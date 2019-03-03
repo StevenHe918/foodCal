@@ -162,3 +162,6 @@ d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
+4a65cc6f0409e145b8e43da14054c3b6 Assembly-CSharp.dll:.WebCamController
+4e648512d289dafc6dbc9c39e73c40cf Assembly-CSharp.dll:.CustomCodeEventHandler
+12e337c732410f54b434a015de380a8c Assembly-CSharp.dll:.CodeScanner
