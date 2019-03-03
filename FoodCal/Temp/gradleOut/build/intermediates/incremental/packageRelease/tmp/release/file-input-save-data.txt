@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Mar 03 00:18:38 PST 2019
+#Sun Mar 03 01:00:20 PST 2019
 60.set=ASSET
 52.set=ASSET
 53.base=/Users/zeyu/Desktop/UCI/WINTER 2019/Hackthon/foodCal/FoodCal/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out
