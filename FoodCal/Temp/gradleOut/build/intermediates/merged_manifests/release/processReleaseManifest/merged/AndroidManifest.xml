@@ -6,7 +6,7 @@
     android:versionName="0.1" >
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="21"
         android:targetSdkVersion="28" />
 
     <supports-screens
@@ -67,7 +67,7 @@
 
         <meta-data
             android:name="unity.build-id"
-            android:value="1184d1e0-37d9-41ab-86eb-2fc37f240d9a" />
+            android:value="c279ac82-4252-4ce3-9151-516648c4dfa7" />
         <meta-data
             android:name="unity.splash-mode"
             android:value="0" />

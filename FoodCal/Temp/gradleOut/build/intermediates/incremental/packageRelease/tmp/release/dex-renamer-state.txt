@@ -1,4 +1,4 @@
-#Sun Mar 03 01:00:19 PST 2019
+#Sun Mar 03 03:18:43 PST 2019
 base.0=/Users/zeyu/Desktop/UCI/WINTER 2019/Hackthon/foodCal/FoodCal/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex
